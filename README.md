@@ -39,6 +39,12 @@ Please cite the article if you use this dataset
 - Skills from 50K JD: [skill2vec_50K.csv.gz](skill2vec_50K.csv.gz)
 - Full 130K JD: *please contact*
 
+# Related project
+
+- related-skills-visualization: https://github.com/duyetdev/related-skills-visualization
+- skill2vec: https://github.com/duyetdev/skill2vec
+- https://duyetdev.github.io/related-skills-visualization/network-skills.html
+
 # License
 
 MIT License
