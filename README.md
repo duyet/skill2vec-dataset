@@ -37,7 +37,7 @@ Please cite the article if you use this dataset
 - Skills from 1K JD: [skill2vec_1K.csv](skill2vec_1K.csv)
 - Skills from 10K JD: [skill2vec_10K.csv](skill2vec_10K.csv)
 - Skills from 50K JD: [skill2vec_50K.csv.gz](skill2vec_50K.csv.gz)
-- Full 130K JD: *please contact*
+- Full 130K JD: http://ko-fi.com/duyet/commissions
 
 # Related project
 
