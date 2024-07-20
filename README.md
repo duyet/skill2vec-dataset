@@ -41,9 +41,9 @@ Please cite the article if you use this dataset
 
 # Related project
 
-- related-skills-visualization: https://github.com/duyetdev/related-skills-visualization
-- skill2vec: https://github.com/duyetdev/skill2vec
-- https://duyetdev.github.io/related-skills-visualization/network-skills.html
+- related-skills-visualization: https://github.com/duyet/related-skills-visualization
+- skill2vec: https://github.com/duyet/skill2vec
+- https://duyet.github.io/related-skills-visualization/network-skills.html
 
 # License
 
